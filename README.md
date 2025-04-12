@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=VqHoUsG7B8w
 
 Sorunlarınız için:
 - Sistem loglarını kontrol edin
-- iyzico teknik destek ile iletişime geçin
+- iyzico teknik destek ile iletişime geçin (Öncelikle Shopier ile iletişime geçmelisiniz)
 
 ## Lisans
 
